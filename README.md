@@ -1,4 +1,3 @@
-[![MasterHead](https://wallpapers.com/images/featured-full/coding-background-9izlympnd0ovmpli.jpg)
 <h1 align="center">Hi 👋, I'm Abdulkadir Yeşilkaya</h1>
 <h3 align="center">A passionate AI Developer from Turkiye</h3>
 
