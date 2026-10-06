@@ -1,5 +1,4 @@
-<!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Abdulkadir%20Ye%C5%9Filkaya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Developer%20%7C%20Robotics%20%26%20Autonomous%20Systems%20%7C%20Computer%20Engineer&descSize=17&descAlignY=58&animation=fadeIn" alt="banner" />
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdulkadir;AI+Developer+from+T%C3%BCrkiye+%F0%9F%87%B9%F0%9F%87%B7;Swarm+Systems+%26+UAV%2FUGV+Autonomy+%F0%9F%9A%81;ROS+%7C+Gazebo+%7C+ArduPilot+%F0%9F%A4%96;Computer+Vision+%26+Machine+Learning+%F0%9F%91%81%EF%B8%8F" alt="Typing SVG" />
